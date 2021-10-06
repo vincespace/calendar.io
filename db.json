@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Submission of exam for Multisys",
+      "description": "Calendario app with event list",
+      "start_date": "2021-10-10",
+      "end_date": "2021-10-10",
+      "time": "08:00:00",
+      "platform": "Github",
+      "virtual_url": "",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Interview with Multisys",
+      "description": "How lucky I am",
+      "start_date": "2021-10-10",
+      "end_date": "2021-10-10",
+      "time": "08:00:00",
+      "platform": "Google Meet",
+      "virtual_url": "",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "title": "Make calendar app",
+      "description": "Implement react, redux, tailwind, mock server, router, hooks, and make it responsive.",
+      "start_date": "2021-10-06",
+      "end_date": "2021-10-08",
+      "time": "08:00:00",
+      "platform": "Github",
+      "virtual_url": "",
+      "status": "Active"
+    }
+  ]
+}
