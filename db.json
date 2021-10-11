@@ -1,37 +1,28 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Submission of exam for Multisys",
-      "description": "Calendario app with event list",
-      "start_date": "2021-10-10",
-      "end_date": "2021-10-10",
-      "time": "08:00:00",
-      "platform": "Github",
-      "virtual_url": "",
-      "status": "Pending"
+      "title": "MultiSys",
+      "description": "MultiSys",
+      "platform": "GMEET",
+      "url": "https://meet.google.com/ayx-excf-kzd",
+      "status": "pending",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Interview with Multisys",
-      "description": "How lucky I am",
-      "start_date": "2021-10-10",
-      "end_date": "2021-10-10",
-      "time": "08:00:00",
-      "platform": "Google Meet",
-      "virtual_url": "",
-      "status": "Pending"
+      "title": "Xurpas",
+      "description": "Xurpas",
+      "platform": "ZOOM",
+      "url": "https://us05web.zoom.us/j/9467859681?pwd=b0xoMGFqUEx1YTd1OHBCb3JscGZsdz09",
+      "status": "ongoing",
+      "id": 3
     },
     {
-      "id": 3,
-      "title": "Make calendar app",
-      "description": "Implement react, redux, tailwind, mock server, router, hooks, and make it responsive.",
-      "start_date": "2021-10-06",
-      "end_date": "2021-10-08",
-      "time": "08:00:00",
-      "platform": "Github",
-      "virtual_url": "",
-      "status": "Active"
+      "title": "DONE",
+      "description": "DONE",
+      "platform": "GITHUB",
+      "url": "https://github.com/XurpasVince/calendar.io",
+      "status": "done",
+      "id": 4
     }
   ]
 }

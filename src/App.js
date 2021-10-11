@@ -1,9 +1,11 @@
-import
+import { BrowserRouter } from 'react-router-dom';
+import RouterComp from './Router/index';
 
 function App() {
   return (
-    <div>
-    </div>
+    <BrowserRouter>
+      <RouterComp />
+    </BrowserRouter>
   );
 }
 
